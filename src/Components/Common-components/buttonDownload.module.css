@@ -1,0 +1,16 @@
+.button {
+    display: flex;
+    justify-content: space-between;
+    height: 48px;
+    width: 162px;
+    padding: 5px 15px;
+}
+.img {
+    width: auto;
+    height: 80%;
+}
+.textbox{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}

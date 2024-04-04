@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    background-color: #1E212C;
+}
+.hr {
+    width: 100%;
+    border:1px solid black;
+}
